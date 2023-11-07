@@ -1,5 +1,5 @@
 
-## 🎀 About Me 🎀
+## 🤍 About Me 🤍
 Hello there! I'm Hillary, a Computer Engineering Student based in New York. 
 
 
