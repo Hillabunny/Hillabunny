@@ -1,6 +1,6 @@
 
 ## 🤍 About Me 🤍
-Hello there! I'm Hillary, a Computer Engineering Student based in New York. 
+Hello there! I'm Hillary, a Computer Engineer based in New York. 
 
 
 <!--
